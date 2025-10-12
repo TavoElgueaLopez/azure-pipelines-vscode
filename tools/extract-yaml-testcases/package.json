@@ -13,7 +13,7 @@
   "author": "Microsoft",
   "license": "MIT",
   "devDependencies": {
-    "@types/node": "~20.9.2",
+    "@types/node": "~24.5.2",
     "typescript": "~5.2.2"
   }
 }
